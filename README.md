@@ -6,6 +6,6 @@ Physical domain, information domain and social domain cover devices, information
 
 We intend to explore the cascading failure relationship between component failure and malware propagation from the coupling of physical domain and information domain.
 
-The 4 .nlogo files here are the experimental files used in our research.
+The 4 .nlogo files here are the experimental files used in our research. Although the topology names are all star here, the topology can be adjusted to lattice-2d and random by simply modifying the annotation symbols in the codes. We fixed random seeds in the code, and the generated simulation results are consistent.
 
 The subsequent plan considers the coupling of physical domain and social domain (at the bottom of the system, people often directly face physical devices, and the interaction between people and physical devices should be taken into consideration), and the coupling of information domain and social domain (at the top of the system, decision makers often face the data integrated and analyzed by information system, and the information carried by software interacts with decision makers / decision teams. At this time, we should consider the interaction between human and software.)
